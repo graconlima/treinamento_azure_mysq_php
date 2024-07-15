@@ -3,7 +3,7 @@
 echo 
 "<html>
 <head>
-<link rel="stylesheet" type="text/css" href="estilo.css" />
+<link rel='stylesheet' type='text/css' href='estilo.css' />
 </head>
 <body>
 <label for='log'>
