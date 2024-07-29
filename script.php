@@ -9,10 +9,6 @@ echo
 <label for='log'>
 ";
 
-//$e = "172.18.0.1:3306";
-//$u = "root";
-//$s = "senha2";
-
 $e = $_POST['url'];
 $u = $_POST['usuario'];
 $s = $_POST['senha'];
