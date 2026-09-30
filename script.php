@@ -67,5 +67,3 @@ $conn->close();
 
 echo "</label></body></html>";
 ?>
-
-
